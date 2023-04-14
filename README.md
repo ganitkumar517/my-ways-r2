@@ -1,4 +1,9 @@
-MyWays Live Hiring Challenge (14th April)
+                                                                 MyWays
+                                                                 
+                                                  Live Hiring Challenge (14th April)
+                                                  
+                                                  
+                                              
 Round 2: ReactJS (Food App)
 ![Screenshot (6)](https://user-images.githubusercontent.com/104363798/232051091-7b8978ce-e6f0-4265-abe7-1cf23b7dfba2.png)
 
